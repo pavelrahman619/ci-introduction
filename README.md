@@ -5,7 +5,7 @@ This tutorial will teach you how to setup your own CI/CD based on the setup we c
 <a href="https://www.youtube.com/watch?v=yNqCpMLmJqE"><img width="218" alt="Screenshot 2022-08-15 at 15 54 54" src="https://user-images.githubusercontent.com/35912614/184648825-eb377bb5-f400-4ace-b7be-9307075eb3bb.png"></a>
 
 
-### Our Goal
+### Our Goal 
 We want to:
 1. automatically run Unit Tests for each pull request
 2. deploy a new build to TestFlight whenever pull request is merged
